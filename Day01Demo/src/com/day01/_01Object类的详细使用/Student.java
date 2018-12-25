@@ -2,13 +2,7 @@ package com.itheima._01Object类的详细使用;
 
 import java.util.Objects;
 
-/*
-* 创建一个学生类：
-*    成员变量
-*    setter+getter
-*    无参数构造器，有参数构造器
-*
-* */
+
 public class Student {
     private String name ;
     private int age ;
